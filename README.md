@@ -44,7 +44,7 @@
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 """
 
-## 📌 Highlight Projects
+## 📌 Project Highlights
 
 - 🎯 [**Monocular Depth Estimation**](https://github.com/anto2892004/Depth-Prediction) – Real-time 3D perception using MiDaS + U-Net. Deployed on edge devices (Raspberry Pi).
 - 🎨 [**AI Avatar Generator**](https://github.com/anto2892004/Avatar_genrator) – Personalized avatars with Stable Diffusion + LoRA fine-tuning.
