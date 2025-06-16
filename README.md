@@ -71,19 +71,31 @@ updated_tech_stack = """
 
 ## 🎓 Certifications
 
-- Deep Learning Specialization – Coursera (Andrew Ng)  
+- Deep Learning Specialization – Coursera  
 - Python Programming – Udemy  
 - Data Structures & Algorithms – Udemy
+---
+
+## 🔍 What I Love Working On
+
+- 🧬 **Generative AI** – Creating personalized avatars, fine-tuning diffusion models, and exploring style transfer.
+- 🧠 **LLM Evaluation** – Designing rigorous benchmarks for biomedical QA and comparing open-weight models.
+- ⚡ **Edge AI** – Deploying real-time vision systems on devices like Raspberry Pi with OpenVINO and TFLite.
+- 🧩 **AI x IoT** – Connecting sensors to intelligent systems to make smart decisions in agriculture and energy.
+- 📊 **Data-Centric AI** – Using visualization and profiling to build robust and explainable ML systems.
+
+---
+---
+
+## 📚 AI Tools I Like to Explore
+
+| Tool         | Why I Like It                            |
+|--------------|-------------------------------------------|
+| **LangChain** | Simplifies building LLM apps with retrieval, memory, and agents. |
+| **Groq API**  | Enables super-fast inference for LLM benchmarking. |
+| **Stable Diffusion + LoRA** | Great for fine-tuning creative generative models. |
+| **OpenVINO**  | Brings deep learning to the edge efficiently. |
+| **Hugging Face Transformers** | Essential for experimenting with SOTA models. |
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anto2892004&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anto2892004&theme=tokyonight" />
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=anto2892004&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
----
