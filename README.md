@@ -27,7 +27,6 @@
 🧪 Building real-world projects using Transformers, Diffusion Models, and Edge AI systems.  
 📌 Exploring OpenVINO, LangChain, and biomedical LLM evaluation.
 
-updated_tech_stack = """
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
